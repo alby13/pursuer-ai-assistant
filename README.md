@@ -12,4 +12,6 @@ This program uses the Requests library.
 
 alby13 is not affiliated with ArliAI and has not been paid to program or promote it.
 
-You may use and modify the program for yoursel, but you may not share or distribute the program. All remaining rights are reserved.
+You may use and modify the program for yourself, but you may not share or distribute the program. All remaining rights are reserved.
+
+The Software shall not be used for commercial purposes without the express written permission of the copyright holder.
