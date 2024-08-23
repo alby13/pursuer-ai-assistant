@@ -295,12 +295,12 @@ class ChatApp:
 
     def show_help(self):
         help_window = tk.Toplevel(self.master)
-        help_window.title("Help - Persuer AI Version 1.0")
+        help_window.title("Help - Pursuer AI Version 1.0")
         help_window.geometry("600x400")
         help_window.resizable(False, False)
 
         help_text = """
-Welcome to Persuer AI!
+Welcome to Pursuer AI!
 
 Before you start:
 1. Sign up for an account at ArliAI.com with your email.
@@ -323,7 +323,7 @@ Additional Features:
 • Use + and - keys to increase or decrease font size.
 • Right-click on the chat display or input field for copy/paste options.
 
-Enjoy using Persuer AI!
+Enjoy using Pursuer AI!
 
 This program was created by alby13
 https://www.singularityon.com/
@@ -932,16 +932,16 @@ https://www.singularityon.com/
             print("An issue with the server has occured and has been logged in error_log.txt")
 
 if __name__ == "__main__":
-    print("Persuer AI is Starting. Version 1.0. Created by alby13 - https://singularityon.com")
+    print("Pursuer AI is Starting. Version 1.0. Created by alby13 - https://singularityon.com")
     print("")
     root = tk.Tk()
     print("Launching Assistant Window...")
     print("")
     app = ChatApp(root)
-    print("Persuer AI is now ready. The window should be open and visible.")
+    print("Pursuer AI is now ready. The window should be open and visible.")
     print("If are having problems with the window or program, you should clear")
     print("or delete the text files in the same directory as this program.")
     print("")
     root.mainloop()
-    print("Persuer AI will now exit.")
+    print("Pursuer AI will now exit.")
     print("")
