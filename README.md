@@ -15,6 +15,9 @@ This program uses the Requests library.
 ### Instructions
 You can grab the bottom of the window or the right side of the window or the bottom right part of the window to resize it by click holding and dragging. This is a little unusual because normally there is more of a border to grab, but this is the best that can be done with a custom window.
 
+### Windows Download:
+The Windows Program is available to download in the releases section, or directly: https://github.com/alby13/pursuer-ai-assistant/releases/download/Public_Release/pursuer-ai.zip
+
 ### Disclaimer
 alby13 is not affiliated with ArliAI and has not been paid to program or promote it.
 
