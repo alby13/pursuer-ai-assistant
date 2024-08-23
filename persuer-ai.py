@@ -943,5 +943,5 @@ if __name__ == "__main__":
     print("or delete the text files in the same directory as this program.")
     print("")
     root.mainloop()
-    print("Arli AI Assistant will now exit.")
+    print("Persuer AI will now exit.")
     print("")
