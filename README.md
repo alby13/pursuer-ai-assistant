@@ -5,6 +5,8 @@ Truly a unique service, ArliAI.com offers the latest AI such as Llama 3.1 8B and
 
 Unleash the power of unlimited creativity, research, creative writing, roleplaying, and a personal assistant.
 
+<img src="program-screenshot.png">
+
 You need Python 3.10+ to run this program.
 This program uses the Requests library.
 
