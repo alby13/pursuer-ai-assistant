@@ -1,3 +1,7 @@
+# Persuer AI Assistant Chat Program Version 1.0 Public Release1
+# Uses Resquests Library
+# Created by alby13 - https://www.singularityon.com
+
 import os
 import logging
 import threading
