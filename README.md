@@ -10,8 +10,13 @@ Unleash the power of unlimited creativity, research, creative writing, roleplayi
 You need Python 3.10+ to run this program.
 This program uses the Requests library.
 
+### Instructions
+You can grab the bottom of the window or the right side of the window or the bottom right part of the window to resize it by click holding and dragging. This is a little unusual because normally there is more of a border to grab, but this is the best that can be done with a custom window.
+
+### Disclaimer
 alby13 is not affiliated with ArliAI and has not been paid to program or promote it.
 
+#### License
 You may use and modify the program for yourself, but you may not share or distribute the program. All remaining rights are reserved.
 
 The Software shall not be used for commercial purposes without the express written permission of the copyright holder.
