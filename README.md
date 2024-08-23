@@ -1,6 +1,10 @@
 # Pursuer AI Assistant Chatbot
 Purseur is a Chatbot for ArliAI.com with Unlimited AI Usage! Truly a unique service, ArliAI.com offers the latest AI such as Llama 3.1 8B and Mistral-NeMo-12B for free, with larger AI and more parallel requests subscriptions available.
 
+Unleash the power of unlimited creativity, research, creative writing, roleplaying, and a personal assistant in the form of the currently available AI.
+
+ArliAI currently offers 20 different AI and Fine-Tuned AI models. Currently available list: https://www.arliai.com/models
+
 You need Python 3.10+ to run this program.
 This program uses the Requests library.
 
