@@ -1,4 +1,5 @@
 # Pursuer AI Assistant Chatbot
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 Pursuer is a Chatbot that works with ArliAI.com for Unlimited AI Usage! 
 
 Truly a unique service, ArliAI.com offers the latest AI such as Llama 3.1 8B and Mistral-NeMo-12B for free, with larger AI and more parallel requests subscriptions available.
