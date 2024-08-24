@@ -1,5 +1,5 @@
 # Pursuer AI Assistant Chat Program Version 1.0 Public Release1
-# Uses Resquests Library
+# Uses Requests Library
 # Created by alby13 - https://www.singularityon.com
 
 import os
